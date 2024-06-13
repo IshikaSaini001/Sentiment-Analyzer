@@ -6,10 +6,8 @@ This project implements basic sentiment analysis and text classification using n
 - [Introduction](#introduction)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Files](#files)
-- [License](#license)
 
 ## Introduction
 The goal of this project is to clean and process text data, classify it into predefined categories, and analyze the emotions expressed in the text. This project demonstrates basic text preprocessing, vectorization, and classification using machine learning techniques.
